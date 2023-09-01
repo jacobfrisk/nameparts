@@ -1,5 +1,5 @@
 // Her defineres det fulde navn
-const personName = "Jacob Friis Strand";
+const personName = "Albus Percival Wulfric Brian Dumbledore";
 
 // For at finde fornavnet dynamisk, bruger vi indexet af det første mellemrum, sådan at længden på navnet ikke betyder noget
 const endOfFirstName = personName.indexOf(" ");
